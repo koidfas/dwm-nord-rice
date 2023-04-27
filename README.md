@@ -13,5 +13,5 @@
   * Ly || Any Display Manager
 
 # To Do 
-* [] Add .dwm/ folder into the repo
-* [] Create a sh script for installing/removing
+- [ ] Add .dwm/ folder into the repo
+- [ ] Create a sh script for installing/removing
