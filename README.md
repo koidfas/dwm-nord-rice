@@ -1,4 +1,5 @@
 # DWM Nord Rice
+Oh boy, how i love suckless software! <3
 ## Dependencies
   * DWM
   * Slstatus
@@ -10,8 +11,9 @@
   * Lxappearance
   * Arc Dark Theme
   * Arc Icon Theme && Moka
-  * Ly || Any Display Manager
+
+**Added a dwm sessions cuz a i like using display manager**
 
 # To Do 
-- [ x ] Add .dwm/ folder into the repo
+- [x]  Add .dwm/ folder into the repo
 - [ ] Create a sh script for installing/removing
