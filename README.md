@@ -15,5 +15,6 @@ Oh boy, how i love suckless software! <3
 **Added a dwm sessions cuz a i like using display manager**
 
 # To Do 
-- [x]  Add .dwm/ folder into the repo
-- [ ] Create a sh script for installing/removing
+- [x]   Add .dwm/ folder into the repo
+- [ ]   Change default keybinds
+- [ ]   Create a sh script for installing/removing
