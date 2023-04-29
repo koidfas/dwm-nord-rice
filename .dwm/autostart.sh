@@ -3,6 +3,12 @@
 # Change keyboard layout
 setxkbmap br &
 
+# Num Lock
+numlockx & 
+
+# Sxhkd
+sxhkd &
+
 # Wallpaper 
 nitrogen --restore
 
