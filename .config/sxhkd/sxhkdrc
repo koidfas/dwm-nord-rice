@@ -1,0 +1,18 @@
+# Brightnessctl
+XF86MonBrightness{Up,Down}
+	brightnessctl s 10{+,-}
+
+#Volume Control
+XF86AudioLowerVolume
+	amixer set Master 5%-
+
+XF86AudioRaiseVolume
+	amixer set Master 5%+
+
+XF86AudioMute
+	amixer set Master toggle
+
+# PrintScreen
+Print 
+	xfce4-screenshotter
+
