@@ -2,6 +2,6 @@
 Encoding=UTF-8
 Name=dwm
 Comment=The Dynamic Window Manager
-Exec=dwm
+Exec=dbus-launch dwm
 Icon=dwm
 Type=XSession

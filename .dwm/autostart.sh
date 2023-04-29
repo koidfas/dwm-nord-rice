@@ -1,6 +1,16 @@
 #!/bin/bash
+
+# Change keyboard layout
+setxkbmap br &
+
+# Wallpaper 
 nitrogen --restore
 
-xrandr -s 1920x1080 &
-
+# Start slstatus for bar
 slstatus &
+
+# Notification 
+/usr/lib/xfce4/notifyd/xfce4-notifyd & 
+
+# Compositor
+picom & 

@@ -11,6 +11,7 @@ Oh boy, how i love suckless software! <3
   * Lxappearance
   * Arc Dark Theme
   * Arc Icon Theme && Moka
+  * Xfce4 NotifyD
 
 **Added a dwm sessions cuz a i like using display manager**
 
