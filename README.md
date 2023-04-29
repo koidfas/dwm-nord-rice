@@ -1,6 +1,8 @@
 # DWM Nord Rice
 **Oh boy, how i love suckless software! <3**
 
+![dwm_nord]()
+
 ## Dependencies
   * Arc Dark Theme
   * Arc Icon Theme && Moka
