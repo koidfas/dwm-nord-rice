@@ -1,19 +1,22 @@
 # DWM Nord Rice
-Oh boy, how i love suckless software! <3
+**Oh boy, how i love suckless software! <3**
+
+![dwm_nord](https://github.com/koidfas/dwm-nord-rice/blob/main/dwm_nord.png)
+
 ## Dependencies
-  * DWM
-  * Slstatus
-  * St
-  * JetBrains Mono NerdFont
-  * Nitrogen 
-  * Dmenu
-  * Neovim
-  * Lxappearance
   * Arc Dark Theme
   * Arc Icon Theme && Moka
+  * Dmenu
+  * DWM
+  * JetBrains Mono NerdFont
+  * Lxappearance
+  * Neovim
+  * Nitrogen 
+  * Slstatus
+  * St
   * Xfce4 NotifyD
 
-**Added a dwm sessions cuz a i like using display manager**
+**Added a dwm sessions cuz a i like using a display manager**
 
 # To Do 
 - [x]   Add .dwm/ folder into the repo
