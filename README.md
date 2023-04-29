@@ -20,5 +20,5 @@
 
 # To Do 
 - [x]   Add .dwm/ folder into the repo
-- [ ]   Change default keybinds
+- [x]   Change default keybinds
 - [ ]   Create a sh script for installing/removing
