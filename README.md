@@ -9,6 +9,7 @@
   * Dmenu
   * DWM
   * JetBrains Mono NerdFont
+  * Gsimplecal
   * Lxappearance
   * Neovim
   * Nitrogen 
