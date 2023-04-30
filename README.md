@@ -15,6 +15,7 @@
   * Slstatus
   * St
   * Xfce4 NotifyD
+  * xidlehook
 
 **Added a dwm sessions cuz a i like using a display manager**
 
