@@ -19,4 +19,8 @@ slstatus &
 /usr/lib/xfce4/notifyd/xfce4-notifyd & 
 
 # Compositor
-picom & 
+picom &
+
+# Lock Screen Auto
+xidlehook --not-when-audio --not-when-fullscreen --timer 1200 '/usr/local/bin/slock' ''
+
