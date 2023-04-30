@@ -1,10 +1,12 @@
 [Unit]
 Description=Lock
+Before=sleep.target
 
 [Service]
 User=leonardo
 Environment=DISPLAY=:0
 ExecStart=/usr/local/bin/slock
+ExecStartPost=/usr/bin/sleep 1
 
 [Install]
-WantedBy=suspend.target
+WantedBy=sleep.target
