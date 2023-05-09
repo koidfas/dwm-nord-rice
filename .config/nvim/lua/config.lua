@@ -1,6 +1,10 @@
 -- Better Colors
 vim.opt.termguicolors = true
 
+-- Better splits
+vim.o.splitbelow = true
+vim.o.splitright = true
+
 -- Mouse support
 vim.opt.mouse='a'
 
