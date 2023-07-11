@@ -62,13 +62,13 @@ static const Layout layouts[] = {
 #define SHCMD(cmd) { .v = (const char*[]){ "/bin/sh", "-c", cmd, NULL } }
 
 /* commands */
-static const char *dmenucmd[] = { "dmenu_run", "-fn", dmenufont, "-nb", col_gray1, "-nf", col_gray3, "-sb", col_cyan, "-sf", col_gray4, NULL };
+//static const char *dmenucmd[] = { "dmenu_run", "-fn", dmenufont, "-nb", col_gray1, "-nf", col_gray3, "-sb", col_cyan, "-sf", col_gray4, NULL };
 static const char *termcmd[]  = { "st", NULL };
 static const char *calendar[]  = { "gsimplecal", NULL };
 
 static const Key keys[] = {
 	/* modifier                     key        function        argument */
-	{ MODKEY,                       XK_Return, spawn,     			{.v = dmenucmd } }, // Spawn dmenu
+//	{ MODKEY,                       XK_Return, spawn,     			{.v = dmenucmd } }, // Spawn dmenu
 	{ MODKEY,             					XK_space,  spawn,          	{.v = termcmd } }, // Spawn st
 	{ MODKEY,                       XK_b,      togglebar,      	{0} }, 
 	{ MODKEY,                       XK_j,      focusstack,     	{.i = +1 } },
