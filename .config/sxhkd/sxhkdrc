@@ -16,6 +16,10 @@ XF86AudioRaiseVolume
 XF86AudioMute
 	amixer set Master toggle
 
+# Open Rofi
+super + Return
+	rofi -show drun -show-icons
+
 # PrintScreen
 Print 
 	xfce4-screenshooter
